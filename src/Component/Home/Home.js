@@ -8,7 +8,7 @@ function Home() {
             <Container fluid className='hero-container'>
                 <Row className='text-white pt-5'>
                     <Col xs={{ order: 12 }}>
-                       <h1> Your Supercharged Design Workflow.</h1>
+                        <h1> Your Supercharged Design Workflow.</h1>
                         <p> We’ve been told it is not possible to overachieve our customers’ expectations.
                             We have not reinvented the wheel, we decided to build upon it.
                         </p>
@@ -18,22 +18,19 @@ function Home() {
                             <p> <span> Slack</span> <span> Github</span><span> Netfily</span><span> Paypal</span></p>
                         </Row>
                     </Col>
-                    <Col xs={{ order: 'first',  span:12}} sm={{ order: 'first', span:12 }} md={{ order: 'first', span:12 }} lg={{ order: 'last', span:6}}>
+                    <Col xs={{ order: 'first', span: 12 }} sm={{ order: 'first', span: 12 }} md={{ order: 'first', span: 12 }} lg={{ order: 'last', span: 6 }}>
                         Hello
                     </Col>
 
                 </Row>
-
-
-
             </Container>
             <Container>
                 <Col>
 
                     <Row className='text-center'>
-                     <h1> Messaging for all</h1>
-                     <p> User generated content in real-time will have multiple touchpoints for offshoring.</p>
-                    
+                        <h1> Messaging for all</h1>
+                        <p> User generated content in real-time will have multiple touchpoints for offshoring.</p>
+
                     </Row>
 
                 </Col>
