@@ -23,7 +23,7 @@
   padding-top: 48px;
 }
 
-@media only screen and (max-width: 768px) {
+@media only screen and (max-width: 900px) {
   .nav-custom{
     background-color: #648EF7;
     padding: 16px 30px;
